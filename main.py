@@ -14,7 +14,7 @@ dp = Dispatcher(bot)
 # BUTTONS
 BUTTON_FORM = KeyboardButton('Ввести свои данные📄')
 
-BUTTON_GENDER = KeyboardButton('ПОЛ👧👦')f
+BUTTON_GENDER = KeyboardButton('ПОЛ👧👦')
 BUTTON_AGE = KeyboardButton('ВОЗРАСТ👱‍♂️🧔🧓')
 BUTTON_HEIGHT = KeyboardButton('РОСТ👤')
 BUTTON_WEIGHT = KeyboardButton('ВЕС👤')
